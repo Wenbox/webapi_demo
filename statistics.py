@@ -1,9 +1,8 @@
 import json
 from flask import Flask, request
-from flask_restplus import Api, Resource, fields
-from query_languages import search_engine
-from datetime import date
-
+from flask_restplus import Api, Resource, fields, reqparse
+from query_languages import search_engine, RateLimitException, ServerException
+import time
 
 flask_app = Flask(__name__)
 app = Api(app = flask_app, 
@@ -14,24 +13,51 @@ app = Api(app = flask_app,
 name_space = app.namespace('statistics', description='Statistics of programming languages')
 
 cached = {}
-
-@name_space.route("/top10")
-class TopTenList(Resource):	
-    @app.doc(responses={ 200: 'OK', 400: 'Rate limit reached. Please try later.', 500: 'Server error' })
+parser = reqparse.RequestParser()
+parser.add_argument('n', type=int, help='1<= n <=10, default 10.')
+ 
+@name_space.route("/topn")
+class TopNList(Resource):	
+    @app.expect(parser)
+    @app.doc(responses={ 200: 'OK', 400: 'Bad Request', 429: 'Too many requests and rate limit reached. Please try later', 502: 'Bad gateway. The upstream server does not responde.' })
     def get(self):
+        """
+        Get top n tags / programming languages.
+        """
+        n = 10
+       
+        args = parser.parse_args()
+        if args['n'] and args['n'] > 0 and args['n'] <= 10:
+            n = args['n']
+
         global cached
-        if (not 'created_date' in cached) or cached['created_date'] != date.today():
-            cached = search_engine().search()
+        try:
+            if (not 'created_time' in cached) or time.time() - cached['created_time'] > 600:
+                cached = search_engine().search()
+        except RateLimitException as e:
+            name_space.abort(429, e.__doc__, status = "Ratelimit violation", statusCode = "429")
+        except ServerException as e:
+            name_space.abort(502, e.__doc__, status = "Could not connect to server", statusCode = "502")
+            
         sorted_list = {tag: count for tag, count in sorted(cached['items'].items(), key = lambda item: item[1]['counts'], reverse = True)}
-        return json.dumps({k : sorted_list[k]['counts'] for k in list(sorted_list)[:10]})
+        return json.dumps({k : sorted_list[k]['counts'] for k in list(sorted_list)[:n]})
         
 @name_space.route("/appear_all")
 class ApearAllList(Resource):
-    @app.doc(responses={ 200: 'OK', 400: 'Rate limit reached. Please try later.', 500: 'Server error' })
+    @app.doc(responses={ 200: 'OK', 400: 'Bad Request', 429: 'Too many requests and rate limit reached. Please try later', 502: 'Bad gateway. The upstream server does not responde.' })
     def get(self):
+        """
+        Get tags / programming languages from all websites.
+        """
         global cached
-        if (not 'created_date' in cached) or cached['created_date'] != date.today():
-            cached = search_engine().search()
+        try:
+            if (not 'created_time' in cached) or time.time() - cached['created_time'] > 600:
+                cached = search_engine().search()        
+        except RateLimitException as e:
+            name_space.abort(429, e.__doc__, status = "Ratelimit violation", statusCode = "429")
+        except ServerException as e:
+            name_space.abort(502, e.__doc__, status = "Could not connect to server", statusCode = "502")
+ 
         return json.dumps([tag for tag, prop in cached['items'].items() if len(prop['contained']) == len(search_engine.sites)])
 
 
