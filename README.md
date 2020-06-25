@@ -7,7 +7,8 @@ There are two endpoints:
 
 Basically this can be regarded as a gateway to invoke apis of Github and Stackoverflow.
 The work process can be illustrated as follows:
-![alt text](https://raw.githubusercontent.com/Wenbox/webapi_demo/master/sketch.png)
+
+![](https://raw.githubusercontent.com/Wenbox/webapi_demo/master/sketch.png =505x335)
 
 ## Prerequisite
 The code is tested with:
