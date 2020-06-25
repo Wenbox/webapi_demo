@@ -1,0 +1,2577 @@
+{
+  "items": [
+    {
+      "tags": [
+        "php",
+        "validation",
+        "laravel-6",
+        "laravel-6.2"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 6402454,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/g7p2c.jpg?s=128&g=1",
+        "display_name": "Dipak",
+        "link": "https://stackoverflow.com/users/6402454/dipak"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072752,
+      "creation_date": 1593072752,
+      "question_id": 62570814,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570814/laravel6-illuminate-http-exceptions-posttoolargeexception-while-uploading-20-mb",
+      "title": "Laravel6 Illuminate\\Http\\Exceptions\\PostTooLargeException while uploading 20 mb file"
+    },
+    {
+      "tags": [
+        "kubernetes",
+        "containers",
+        "kubernetes-pod",
+        "kubernetes-service"
+      ],
+      "owner": {
+        "reputation": 1277,
+        "user_id": 7461941,
+        "user_type": "registered",
+        "accept_rate": 28,
+        "profile_image": "https://www.gravatar.com/avatar/f0d483bb3b340537a57ce53ce4463721?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Luv33preet",
+        "link": "https://stackoverflow.com/users/7461941/luv33preet"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072739,
+      "creation_date": 1593071223,
+      "question_id": 62570366,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570366/kubernetes-service-routing-to-pods-with-multiple-containers",
+      "title": "Kubernetes: Service routing to pods with multiple containers"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "visual-studio",
+        "winforms",
+        "formatting"
+      ],
+      "owner": {
+        "reputation": 6684,
+        "user_id": 261010,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/6110ee180152293f9172fca4bdf00d8d?s=128&d=identicon&r=PG",
+        "display_name": "abenci",
+        "link": "https://stackoverflow.com/users/261010/abenci"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072738,
+      "creation_date": 1593072420,
+      "last_edit_date": 1593072738,
+      "question_id": 62570724,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570724/changing-typeconverter-of-a-3rd-party-library-type",
+      "title": "Changing TypeConverter of a 3rd party library type"
+    },
+    {
+      "tags": [
+        "java",
+        "selenium",
+        "selenium-webdriver",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 12233983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/33954e261f826b5438477241d09c2a2f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "D0lan",
+        "link": "https://stackoverflow.com/users/12233983/d0lan"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1593072736,
+      "creation_date": 1593070660,
+      "question_id": 62570202,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570202/selenium-invalid-session-id-from-loop-with-current-webdriver",
+      "title": "Selenium invalid session id from loop with current webdriver"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "web-deployment"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13810999,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GixmQRvt1WHnEfMd0Li0Rik7om-kiHIJWCVyD3s=k-s128",
+        "display_name": "BLANK",
+        "link": "https://stackoverflow.com/users/13810999/blank"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1593072733,
+      "creation_date": 1593071852,
+      "question_id": 62570563,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570563/cant-click-my-href-when-position-is-fixed",
+      "title": "cant click my href when position is fixed"
+    },
+    {
+      "tags": [
+        "oracle-apex",
+        "apex-code"
+      ],
+      "owner": {
+        "reputation": 7,
+        "user_id": 13678730,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/db44f43697a6153c034b2846f842ff61?s=128&d=identicon&r=PG&f=1",
+        "display_name": "smajo",
+        "link": "https://stackoverflow.com/users/13678730/smajo"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072732,
+      "creation_date": 1593062946,
+      "question_id": 62568460,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62568460/ora-01756-quote-missing-from-string-p-apex-oracle-pl-sql",
+      "title": "ORA-01756: quote missing from string &lt;/p&gt; - APEX, Oracle, PL/SQL"
+    },
+    {
+      "tags": [
+        "python",
+        "kotlin",
+        "chaquopy"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13764059,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fb5ecb1c0ada239198679551f533d727?s=128&d=identicon&r=PG&f=1",
+        "display_name": "bharat",
+        "link": "https://stackoverflow.com/users/13764059/bharat"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072731,
+      "creation_date": 1593069469,
+      "last_edit_date": 1593072731,
+      "question_id": 62569897,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569897/how-can-i-send-data-to-my-python-code-in-android-studio",
+      "title": "how can I send data to my python code in android studio"
+    },
+    {
+      "tags": [
+        "bootstrap-4",
+        "datatables"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12269815,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mBS0683Rkh8eUweMHdnE9biu5X-s3kzZ577kPncQqw=k-s128",
+        "display_name": "Naveen Kumar",
+        "link": "https://stackoverflow.com/users/12269815/naveen-kumar"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072726,
+      "creation_date": 1593072392,
+      "last_edit_date": 1593072726,
+      "question_id": 62570716,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570716/custom-filter-pane-datatables-bootstrap-dropdown-values-in-pane-filter",
+      "title": "Custom-filter-pane datatables bootstrap dropdown values in pane filter"
+    },
+    {
+      "tags": [
+        "powerbi",
+        "google-data-studio"
+      ],
+      "owner": {
+        "reputation": 29,
+        "user_id": 13014506,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-ltV-1CNc4TE/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBRXlaeMDcvbPx4xncx7w9oXBHsaw/photo.jpg?sz=128",
+        "display_name": "Andreas",
+        "link": "https://stackoverflow.com/users/13014506/andreas"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072726,
+      "creation_date": 1593072363,
+      "last_edit_date": 1593072726,
+      "question_id": 62570708,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570708/convert-power-bi-measure-to-google-data-studio-calculated-field",
+      "title": "Convert Power BI measure to Google Data Studio calculated field"
+    },
+    {
+      "tags": [
+        "php",
+        "html"
+      ],
+      "owner": {
+        "reputation": 35,
+        "user_id": 12077048,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/03a71172c56ba9a946c3141179e7a07f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "liyooooooooo",
+        "link": "https://stackoverflow.com/users/12077048/liyooooooooo"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072725,
+      "creation_date": 1593072725,
+      "question_id": 62570808,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570808/failed-to-open-stream-http-request-failed-because-of-hypen-on-url",
+      "title": "Failed to open stream: HTTP request failed because of hypen on url"
+    },
+    {
+      "tags": [
+        "swift",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13787660,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bffc7d50985731b491da5bd00572162a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "lakertanner",
+        "link": "https://stackoverflow.com/users/13787660/lakertanner"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072720,
+      "creation_date": 1593072720,
+      "question_id": 62570807,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570807/if-you-have-a-firebase-snapshot-with-a-filter-applied-to-the-current-user-s-chil",
+      "title": "If you have a firebase snapshot with a filter applied to the current user’s child, how can one do that for all users in the database?"
+    },
+    {
+      "tags": [
+        "css",
+        "twitter-bootstrap",
+        "bootstrap-4"
+      ],
+      "owner": {
+        "reputation": 814,
+        "user_id": 10218061,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/500bb8726c3bdf0696492f456f3f51bf?s=128&d=identicon&r=PG&f=1",
+        "display_name": "gecko",
+        "link": "https://stackoverflow.com/users/10218061/gecko"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072720,
+      "creation_date": 1593072720,
+      "question_id": 62570806,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570806/how-to-change-position-in-bootstrap",
+      "title": "How to change position in bootstrap?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql"
+      ],
+      "owner": {
+        "reputation": 31,
+        "user_id": 12937086,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mCiPOKjTQQ5wDCrG7a-jxhaEMfsR-HvK_DwLn9A=k-s128",
+        "display_name": "ABDULAZIZ NOREDIN QADMOR ",
+        "link": "https://stackoverflow.com/users/12937086/abdulaziz-noredin-qadmor"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072719,
+      "creation_date": 1593072453,
+      "last_edit_date": 1593072719,
+      "question_id": 62570734,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570734/how-to-fix-error-code-1064-after-update-mysql",
+      "title": "How to fix Error code: 1064 After Update Mysql?"
+    },
+    {
+      "tags": [
+        "scala",
+        "spark-streaming",
+        "mqtt"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11914142,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-bKcn2sm04QY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf7M8sGCCh4SZ-ipwycxe2Kl75G6w/photo.jpg?sz=128",
+        "display_name": "badhusha muhammed",
+        "link": "https://stackoverflow.com/users/11914142/badhusha-muhammed"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072719,
+      "creation_date": 1593072719,
+      "question_id": 62570805,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570805/is-there-any-possible-way-to-create-multiple-receiver-in-spark-streaming-and-run",
+      "title": "Is there any possible way to create multiple receiver in spark streaming and run them parallel, (Using MQTT, Spark, Scala,JavaStreamingContext)"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "ssl",
+        "kotlin"
+      ],
+      "owner": {
+        "reputation": 6552,
+        "user_id": 680001,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/7a1ec53845532ff7ab726ea809cffa74?s=128&d=identicon&r=PG",
+        "display_name": "Sayuj",
+        "link": "https://stackoverflow.com/users/680001/sayuj"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072718,
+      "creation_date": 1593072718,
+      "question_id": 62570804,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570804/spring-boot-enable-2-way-ssl-on-selected-urls",
+      "title": "Spring Boot: Enable 2-way-SSL on selected URLs"
+    },
+    {
+      "tags": [
+        "python",
+        "python-decorators",
+        "python-class"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13810702,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/49351920fe412be79b0cfbe2514fb459?s=128&d=identicon&r=PG&f=1",
+        "display_name": "aldus",
+        "link": "https://stackoverflow.com/users/13810702/aldus"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072717,
+      "creation_date": 1593071784,
+      "question_id": 62570536,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570536/decorating-a-method-of-an-instance-with-a-method-from-another-instance",
+      "title": "Decorating a method of an instance with a method from another instance"
+    },
+    {
+      "tags": [
+        "apache-nifi"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 6356367,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10206200535440985/picture?type=large",
+        "display_name": "Marcela Gallo",
+        "link": "https://stackoverflow.com/users/6356367/marcela-gallo"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072709,
+      "creation_date": 1593072331,
+      "last_edit_date": 1593072709,
+      "question_id": 62570702,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570702/variable-pass-to-query-the-queryelasticsearchhttp",
+      "title": "Variable pass to query the QueryElasticsearchHttp"
+    },
+    {
+      "tags": [
+        "javascript",
+        "promise",
+        "for-await"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13348408,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/YEOr4.jpg?s=128&g=1",
+        "display_name": "Roman",
+        "link": "https://stackoverflow.com/users/13348408/roman"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072708,
+      "creation_date": 1593072708,
+      "question_id": 62570801,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570801/how-to-catch-a-rejected-promise-in-a-new-expression-node-v14-4-0-for-await",
+      "title": "How to catch a rejected promise in a new expression node v14.4.0 &quot;for await ... of&quot;"
+    },
+    {
+      "tags": [
+        "r",
+        "loops",
+        "dataframe",
+        "subset"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 8588314,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/1a12a9df3d77f5083942bff3e27be8ce?s=128&d=identicon&r=PG&f=1",
+        "display_name": "GMK",
+        "link": "https://stackoverflow.com/users/8588314/gmk"
+      },
+      "is_answered": true,
+      "view_count": 18,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072707,
+      "creation_date": 1593068514,
+      "last_edit_date": 1593072707,
+      "question_id": 62569624,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569624/r-function-to-subset-dataframe-so-that-non-adjacent-values-in-a-column-differ-by",
+      "title": "R function to subset dataframe so that non-adjacent values in a column differ by &gt;= X (starting with the first value)"
+    },
+    {
+      "tags": [
+        "sql",
+        "asp.net",
+        "entity-framework"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13735107,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10213821237844106/picture?type=large",
+        "display_name": "Ad&#233;la Holubov&#225;",
+        "link": "https://stackoverflow.com/users/13735107/ad%c3%a9la-holubov%c3%a1"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072707,
+      "creation_date": 1593072707,
+      "question_id": 62570800,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570800/onmodelcreating-not-linking-tables-together",
+      "title": "OnModelCreating not linking tables together"
+    },
+    {
+      "tags": [
+        "axapta",
+        "dynamics-ax-2012",
+        "dynamics-ax-2012-r2",
+        "dynamics-ax-2012-r3"
+      ],
+      "owner": {
+        "reputation": 13,
+        "user_id": 11863174,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a366d870bbef211db88a5c67c63c2a81?s=128&d=identicon&r=PG&f=1",
+        "display_name": "yalcinpkr",
+        "link": "https://stackoverflow.com/users/11863174/yalcinpkr"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072701,
+      "creation_date": 1593072701,
+      "question_id": 62570798,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570798/dynamics-ax-user-activity",
+      "title": "Dynamics Ax User Activity"
+    },
+    {
+      "tags": [
+        "php",
+        "symfony",
+        "events",
+        "shopware",
+        "subscriber"
+      ],
+      "owner": {
+        "reputation": 58,
+        "user_id": 8219032,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ef0e15581119e40dada4bfe3a780ed01?s=128&d=identicon&r=PG&f=1",
+        "display_name": "David",
+        "link": "https://stackoverflow.com/users/8219032/david"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072695,
+      "creation_date": 1593066637,
+      "question_id": 62569172,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569172/is-there-an-order-state-change-event-in-shopware-6",
+      "title": "Is there an order state change event in Shopware 6?"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "circular-dependency"
+      ],
+      "owner": {
+        "reputation": 2575,
+        "user_id": 629157,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/d4a30bd57bdc7f623d254220f201e303?s=128&d=identicon&r=PG",
+        "display_name": "Prof83",
+        "link": "https://stackoverflow.com/users/629157/prof83"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072693,
+      "creation_date": 1593072693,
+      "question_id": 62570795,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570795/fix-angular-circular-dependencies",
+      "title": "Fix Angular Circular Dependencies"
+    },
+    {
+      "tags": [
+        "ldap",
+        "openldap",
+        "apacheds",
+        "scim",
+        "scim2"
+      ],
+      "owner": {
+        "reputation": 93,
+        "user_id": 11531403,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-iI6RhdSLHWI/AAAAAAAAAAI/AAAAAAAAARM/rxg6W73YrkY/photo.jpg?sz=128",
+        "display_name": "Balram Chauhan",
+        "link": "https://stackoverflow.com/users/11531403/balram-chauhan"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072692,
+      "creation_date": 1593072692,
+      "question_id": 62570794,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570794/is-scim-better-than-ldap-for-user-management-or-both-are-different-implementatio",
+      "title": "Is SCIM better than LDAP for user management or both are different implementations?"
+    },
+    {
+      "tags": [
+        "iterm2"
+      ],
+      "owner": {
+        "reputation": 625,
+        "user_id": 349756,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/99a8d518bc0f6628c07fcf87c9008e69?s=128&d=identicon&r=PG",
+        "display_name": "Igor Hrcek",
+        "link": "https://stackoverflow.com/users/349756/igor-hrcek"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072690,
+      "creation_date": 1593072690,
+      "question_id": 62570793,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570793/dynamic-profile-switching-based-on-external-display",
+      "title": "Dynamic profile switching based on external display"
+    },
+    {
+      "tags": [
+        "java",
+        "java-8",
+        "stream",
+        "hashmap"
+      ],
+      "owner": {
+        "reputation": 39,
+        "user_id": 10754570,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2211471915552124/picture?type=large",
+        "display_name": "RAm Prasad",
+        "link": "https://stackoverflow.com/users/10754570/ram-prasad"
+      },
+      "is_answered": true,
+      "view_count": 54,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1593072685,
+      "creation_date": 1593068446,
+      "last_edit_date": 1593071525,
+      "question_id": 62569609,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569609/get-inner-most-values-in-the-map-as-a-list-in-mapstring-listmapstring-maps",
+      "title": "Get inner most values in the Map as a List in `Map&lt;String, List&lt;Map&lt;String,Map&lt;String,String&gt;&gt;&gt;&gt;` Java"
+    },
+    {
+      "tags": [
+        "ansible",
+        "formatting"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 1747537,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a65d6fc836cbd2de2cf8649679c24b3d?s=128&d=identicon&r=PG",
+        "display_name": "user1747537",
+        "link": "https://stackoverflow.com/users/1747537/user1747537"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072685,
+      "creation_date": 1593050308,
+      "last_edit_date": 1593072685,
+      "question_id": 62566742,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62566742/ansible-find-the-servers-which-does-not-have-a-matching-string-in-config-file-a",
+      "title": "Ansible- find the servers which does not have a matching string in config file and display only the servers which does not have the string"
+    },
+    {
+      "tags": [
+        "docker",
+        "continuous-integration",
+        "gitlab",
+        "cd"
+      ],
+      "owner": {
+        "reputation": 45,
+        "user_id": 13596436,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d82165a314fa03af922a34e8ab7f63cd?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Amar Kumar",
+        "link": "https://stackoverflow.com/users/13596436/amar-kumar"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072681,
+      "creation_date": 1593072681,
+      "question_id": 62570791,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570791/how-to-build-docker-image-tagged-with-git-tag-in-gitlab-ci",
+      "title": "How to build docker image tagged with Git Tag in GitLab CI"
+    },
+    {
+      "tags": [
+        "amazon-web-services",
+        "tensorflow"
+      ],
+      "owner": {
+        "reputation": 33,
+        "user_id": 4019277,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/asNpQ.jpg?s=128&g=1",
+        "display_name": "avaj",
+        "link": "https://stackoverflow.com/users/4019277/avaj"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072677,
+      "creation_date": 1593072677,
+      "question_id": 62570790,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570790/how-to-load-a-custom-model-trained-in-tensorflow-in-aws-djl",
+      "title": "how to load a custom model trained in tensorflow in AWS DJL"
+    },
+    {
+      "tags": [
+        "c#",
+        "list",
+        "sorting"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 11019287,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-3tVA4FgQkIs/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQP9ZWnFJZBwIqdxtZW88RjLH10haA/mo/photo.jpg?sz=128",
+        "display_name": "Markus Wimmer",
+        "link": "https://stackoverflow.com/users/11019287/markus-wimmer"
+      },
+      "is_answered": true,
+      "view_count": 55,
+      "accepted_answer_id": 62570150,
+      "answer_count": 5,
+      "score": 1,
+      "last_activity_date": 1593072674,
+      "creation_date": 1593069028,
+      "last_edit_date": 1593069942,
+      "question_id": 62569763,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569763/list-sum-same-items-range",
+      "title": "List Sum same items Range"
+    },
+    {
+      "tags": [
+        "javascript",
+        "vue.js"
+      ],
+      "owner": {
+        "reputation": 25,
+        "user_id": 13714186,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhxqIvCUHmh0UP-f3sjMPNqBStDJQuaxzMlD2vqlg=k-s128",
+        "display_name": "Gianmaria Vinci",
+        "link": "https://stackoverflow.com/users/13714186/gianmaria-vinci"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072673,
+      "creation_date": 1593072673,
+      "question_id": 62570789,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570789/how-can-i-exclude-some-element-from-my-array-vue-js",
+      "title": "How can i exclude some element from my array? (vue.js)"
+    },
+    {
+      "tags": [
+        "macos",
+        "zsh",
+        "oh-my-zsh"
+      ],
+      "owner": {
+        "reputation": 950,
+        "user_id": 9836706,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/p2ehG.jpg?s=128&g=1",
+        "display_name": "Francesco Iapicca",
+        "link": "https://stackoverflow.com/users/9836706/francesco-iapicca"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072667,
+      "creation_date": 1593069487,
+      "last_edit_date": 1593072667,
+      "question_id": 62569898,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569898/oh-my-zsh-error-on-mac-oh-my-zsh-oh-my-zsh-sh66-command-not-found-rm",
+      "title": "Oh_My_ZSH! error on Mac: &quot;.oh-my-zsh/oh-my-zsh.sh:66: command not found: rm&quot;"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "time-series",
+        "tuples",
+        "cross-validation"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13198438,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-n8VoiQ75IN8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPQBh_GqtTbvfRYkQEJqfU3GOm-0g/photo.jpg?sz=128",
+        "display_name": "Marina Kononova",
+        "link": "https://stackoverflow.com/users/13198438/marina-kononova"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072657,
+      "creation_date": 1593071168,
+      "last_edit_date": 1593072657,
+      "question_id": 62570341,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570341/cross-validation-for-time-series-data-convert-user-definied-list-of-tuples-with",
+      "title": "Cross-validation for time-series data: Convert user-definied list of tuples with inner lists of lists to list of tuples for appling in GridSearchCV"
+    },
+    {
+      "tags": [
+        "android-studio",
+        "android-emulator",
+        "emulation",
+        "genymotion",
+        "android-emulator-plugin"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 13490303,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/t5uJf.jpg?s=128&g=1",
+        "display_name": "Red Hood Dev",
+        "link": "https://stackoverflow.com/users/13490303/red-hood-dev"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072655,
+      "creation_date": 1593070779,
+      "question_id": 62570234,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570234/genymotion-emulator-error-starting-virtual-device-player-exe-has-stopped",
+      "title": "Genymotion emulator Error starting virtual device, &quot;player.exe&quot; has stopped"
+    },
+    {
+      "tags": [
+        "javascript",
+        "firebase",
+        "dialogflow"
+      ],
+      "owner": {
+        "reputation": 61,
+        "user_id": 11246536,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8b289510e0cb2df225ff88ac63084259?s=128&d=identicon&r=PG&f=1",
+        "display_name": "rinrin0000",
+        "link": "https://stackoverflow.com/users/11246536/rinrin0000"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072654,
+      "creation_date": 1593072654,
+      "question_id": 62570785,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570785/i-want-to-put-entities-into-firebase",
+      "title": "I want to put Entities into Firebase"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 13760749,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-yw_UqqPcfT8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMUA3Ioy_kENqPRq3h1esfodxsEdQ/photo.jpg?sz=128",
+        "display_name": "sal mourad",
+        "link": "https://stackoverflow.com/users/13760749/sal-mourad"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072652,
+      "creation_date": 1593072652,
+      "question_id": 62570783,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570783/made-my-footer-to-my-website-but-when-i-zoom-into-the-page-the-whole-thing-bec",
+      "title": "Made my footer to my website, but when I zoom into the page, the whole thing becomes overlapped"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "wordpress",
+        "web"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13811061,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhVgFCD-ktKDwLGmbQtIBPYFRKZVYwl9_buDrXk=k-s128",
+        "display_name": "M7MAD_ JO",
+        "link": "https://stackoverflow.com/users/13811061/m7mad-jo"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072652,
+      "creation_date": 1593072652,
+      "question_id": 62570782,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570782/which-better-to-build-landing-page-coding-from-scratch-or-wordpress",
+      "title": "Which better to build landing page coding from scratch or wordpress"
+    },
+    {
+      "tags": [
+        ".net",
+        "json",
+        "azure",
+        "devops"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13809828,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gj6iCh3n2ilcO3E5OTKuYvKeqra6PZMCPb7Sh5Ekw=k-s128",
+        "display_name": "Bill Blair",
+        "link": "https://stackoverflow.com/users/13809828/bill-blair"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072652,
+      "creation_date": 1593054384,
+      "question_id": 62567217,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62567217/json-variable-substitution-in-appsettings-json-file-is-not-working-in-azure-devo",
+      "title": "JSON variable substitution in appsettings.json file is not working in Azure DevOps Releases"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 13,
+        "user_id": 13810917,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjFG5j-y2HVTkYvokQr-9FvUvwvL7QlXkpLrnJI=k-s128",
+        "display_name": "Rajasubramanian SM",
+        "link": "https://stackoverflow.com/users/13810917/rajasubramanian-sm"
+      },
+      "is_answered": true,
+      "view_count": 32,
+      "closed_date": 1593072403,
+      "accepted_answer_id": 62570565,
+      "answer_count": 3,
+      "score": -2,
+      "last_activity_date": 1593072647,
+      "creation_date": 1593071105,
+      "last_edit_date": 1593072647,
+      "question_id": 62570316,
+      "link": "https://stackoverflow.com/questions/62570316/how-to-use-if-else-with-range-in-python",
+      "closed_reason": "Not suitable for this site",
+      "title": "How to use if else with range in python?"
+    },
+    {
+      "tags": [
+        "node-red",
+        "cloudant"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 5810071,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3536442c81d5cf8c9dae2cea700296b9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Murali",
+        "link": "https://stackoverflow.com/users/5810071/murali"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072639,
+      "creation_date": 1593072639,
+      "question_id": 62570779,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570779/node-red-cloudant-node-connectivity-fails",
+      "title": "Node-Red Cloudant node connectivity fails"
+    },
+    {
+      "tags": [
+        "php",
+        "html",
+        "csrf"
+      ],
+      "owner": {
+        "reputation": 144,
+        "user_id": 9706771,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/ZC6SC.gif?s=128&g=1",
+        "display_name": "Ryan Stone",
+        "link": "https://stackoverflow.com/users/9706771/ryan-stone"
+      },
+      "is_answered": false,
+      "view_count": 54,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1593072639,
+      "creation_date": 1593047588,
+      "last_edit_date": 1593072639,
+      "question_id": 62566360,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62566360/php-csrf-token-script-blocking-submit-button-on-my-form",
+      "title": "PHP CSRF Token Script blocking Submit button on my form"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "iphone",
+        "api"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13215157,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0affa21dff39b3298270e4c868124818?s=128&d=identicon&r=PG&f=1",
+        "display_name": "conan ",
+        "link": "https://stackoverflow.com/users/13215157/conan"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072629,
+      "creation_date": 1593072629,
+      "question_id": 62570778,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570778/why-svprogresshud-crashes-on-ios-13",
+      "title": "why svprogresshud crashes on ios 13?"
+    },
+    {
+      "tags": [
+        "wordpress",
+        "actionlink"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13811103,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/326b78e20b8ea2a5b26c54c53e15ea68?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Abhibhaw Asthana",
+        "link": "https://stackoverflow.com/users/13811103/abhibhaw-asthana"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072629,
+      "creation_date": 1593072629,
+      "question_id": 62570777,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570777/waiting-page-before-outbound-links",
+      "title": "Waiting page before Outbound links"
+    },
+    {
+      "tags": [
+        "c++",
+        "opencv",
+        "ubuntu"
+      ],
+      "owner": {
+        "reputation": 329,
+        "user_id": 9926472,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-0ASgf5vQe_U/AAAAAAAAAAI/AAAAAAAAAC8/ojw_uBiOZf8/photo.jpg?sz=128",
+        "display_name": "Shrutheesh Raman Iyer",
+        "link": "https://stackoverflow.com/users/9926472/shrutheesh-raman-iyer"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072626,
+      "creation_date": 1593072300,
+      "last_edit_date": 1593072626,
+      "question_id": 62570691,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570691/opencv-conflicting-version-for-c",
+      "title": "Opencv conflicting version for C++"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "firebase",
+        "google-maps"
+      ],
+      "owner": {
+        "reputation": 9,
+        "user_id": 13613759,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgCPSpBEmGKzEtcvv0m6r9jRqA9Y7bRyaZiKqjH=k-s128",
+        "display_name": "Arcadia Vany",
+        "link": "https://stackoverflow.com/users/13613759/arcadia-vany"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072625,
+      "creation_date": 1593072625,
+      "question_id": 62570775,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570775/uncaught-typeerror-cannot-read-property-of-undefined-in-firebase-javascript-int",
+      "title": "Uncaught TypeError: Cannot read property of undefined in Firebase Javascript integrated with Google Maps API"
+    },
+    {
+      "tags": [
+        "python-3.x",
+        "openssl",
+        "pyenv"
+      ],
+      "owner": {
+        "reputation": 41,
+        "user_id": 11194047,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-cd6iHRclBCg/AAAAAAAAAAI/AAAAAAAAAAc/yxJV_hqCE8U/photo.jpg?sz=128",
+        "display_name": "Peter Schwarz",
+        "link": "https://stackoverflow.com/users/11194047/peter-schwarz"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1593072622,
+      "creation_date": 1593072171,
+      "last_edit_date": 1593072622,
+      "question_id": 62570650,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570650/how-to-solve-importerror-cannot-import-name-ssl-on-python-3",
+      "title": "How to solve ImportError: cannot import name &#39;ssl&#39; on Python 3"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "antd"
+      ],
+      "owner": {
+        "reputation": 123,
+        "user_id": 9744414,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1422885181150956/picture?type=large",
+        "display_name": "Walls",
+        "link": "https://stackoverflow.com/users/9744414/walls"
+      },
+      "is_answered": true,
+      "view_count": 10,
+      "accepted_answer_id": 62570773,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1593072616,
+      "creation_date": 1593070748,
+      "question_id": 62570228,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570228/antd-drawer-disable-shadow",
+      "title": "antd drawer disable shadow"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-context",
+        "use-reducer",
+        "use-context"
+      ],
+      "owner": {
+        "reputation": 118,
+        "user_id": 6475322,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-2mt0E8gRZpw/AAAAAAAAAAI/AAAAAAAAADM/0cq5rtydyts/photo.jpg?sz=128",
+        "display_name": "bijoy tv",
+        "link": "https://stackoverflow.com/users/6475322/bijoy-tv"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072612,
+      "creation_date": 1593068700,
+      "question_id": 62569681,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569681/how-to-handle-after-state-change-in-react-context-dispatch",
+      "title": "How to handle, after state change in React context dispatch"
+    },
+    {
+      "tags": [
+        "dnsmasq",
+        "dig"
+      ],
+      "owner": {
+        "reputation": 87,
+        "user_id": 2677279,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/2996755ce5dfe157b89a13ab1631d06d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user2677279",
+        "link": "https://stackoverflow.com/users/2677279/user2677279"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072612,
+      "creation_date": 1593072612,
+      "question_id": 62570772,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570772/how-do-i-do-reverse-lookup-with-dig-for-ip-in-a-specific-domain-name-server",
+      "title": "how do I do reverse lookup with dig for ip in a specific domain name server"
+    },
+    {
+      "tags": [
+        "scala"
+      ],
+      "owner": {
+        "reputation": 404,
+        "user_id": 8001960,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://i.stack.imgur.com/i59dG.jpg?s=128&g=1",
+        "display_name": "Bord81",
+        "link": "https://stackoverflow.com/users/8001960/bord81"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072607,
+      "creation_date": 1593072607,
+      "question_id": 62570771,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570771/scala-range-bigdecimal-in-a-for-loop",
+      "title": "Scala Range.BigDecimal in a for loop"
+    },
+    {
+      "tags": [
+        "java",
+        "debugging",
+        "kubernetes",
+        "soap",
+        "endpoint"
+      ],
+      "owner": {
+        "reputation": 123,
+        "user_id": 11121910,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-hSmJ-xsmlWc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcfODT1ct5U5Q1rgYIblHRskdVpxQ/mo/photo.jpg?sz=128",
+        "display_name": "goku736",
+        "link": "https://stackoverflow.com/users/11121910/goku736"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072604,
+      "creation_date": 1593072604,
+      "question_id": 62570770,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570770/how-to-solve-my-problem-with-kubernetes-and-soap-client-cannot-reach-server",
+      "title": "How to solve my problem with kubernetes and soap. Client cannot reach server"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 141,
+        "user_id": 10037461,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-YEOIc09gPWE/AAAAAAAAAAI/AAAAAAAAAFs/ICleRNXTmQs/photo.jpg?sz=128",
+        "display_name": "Lucas Mengual",
+        "link": "https://stackoverflow.com/users/10037461/lucas-mengual"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072602,
+      "creation_date": 1593072115,
+      "question_id": 62570634,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570634/show-and-hide-html-with-angularjs-value",
+      "title": "Show and hide HTML with angularJS value"
+    },
+    {
+      "tags": [
+        "python",
+        "elasticsearch"
+      ],
+      "owner": {
+        "reputation": 163,
+        "user_id": 6883721,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6b1a7949aa423ae9b24f28aa9a9a99cc?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Vince",
+        "link": "https://stackoverflow.com/users/6883721/vince"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072598,
+      "creation_date": 1593071881,
+      "question_id": 62570568,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570568/how-to-query-with-python-elasticseach-module-over-multiple-indexes",
+      "title": "how to query with python elasticseach module over multiple indexes?"
+    },
+    {
+      "tags": [
+        "sharepoint",
+        "sharepoint-online"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10506328,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-HKq9CgSMLpA/AAAAAAAAAAI/AAAAAAAAI5I/8HYOcP4xkq4/photo.jpg?sz=128",
+        "display_name": "Nidhi Teli",
+        "link": "https://stackoverflow.com/users/10506328/nidhi-teli"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072595,
+      "creation_date": 1593072595,
+      "question_id": 62570767,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570767/is-it-possible-to-add-custom-fields-in-metadata-for-site-and-lists-of-ms-share-p",
+      "title": "Is it possible to add custom fields in metadata for site and lists of MS Share Point?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "azure",
+        "azure-functions"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 3480396,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a8ec262a4bb738c31e9c5589d24e6a21?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Kooning",
+        "link": "https://stackoverflow.com/users/3480396/kooning"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072564,
+      "creation_date": 1593072564,
+      "question_id": 62570760,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570760/how-to-add-meta-tag-in-header-of-azure-functions",
+      "title": "How to add meta tag in header of Azure Functions"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13810987,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5bb4175d92901c711b577eca83128b52?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Taha",
+        "link": "https://stackoverflow.com/users/13810987/taha"
+      },
+      "is_answered": false,
+      "view_count": 34,
+      "closed_date": 1593072571,
+      "answer_count": 3,
+      "score": -1,
+      "last_activity_date": 1593072564,
+      "creation_date": 1593072045,
+      "last_edit_date": 1593072564,
+      "question_id": 62570612,
+      "link": "https://stackoverflow.com/questions/62570612/how-can-i-create-a-delay-between-two-lines-of-code-in-java",
+      "closed_reason": "Duplicate",
+      "title": "How can I create a delay between two lines of code in Java?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "angular",
+        "icons",
+        "mat"
+      ],
+      "owner": {
+        "reputation": 102,
+        "user_id": 2542954,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/97b5c24207c1e60bebc7bec6f7e7a71b?s=128&d=identicon&r=PG",
+        "display_name": "MightGod",
+        "link": "https://stackoverflow.com/users/2542954/mightgod"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072563,
+      "creation_date": 1593067633,
+      "last_edit_date": 1593072563,
+      "question_id": 62569399,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569399/angular-how-to-add-text-on-top-of-mat-icon",
+      "title": "Angular How to add text on top of mat-icon"
+    },
+    {
+      "tags": [
+        "windows",
+        "apache",
+        "windows-services",
+        "procrun",
+        "apache-commons-daemon"
+      ],
+      "owner": {
+        "reputation": 119,
+        "user_id": 8017666,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/QvyY9.jpg?s=128&g=1",
+        "display_name": "Shubham Jain",
+        "link": "https://stackoverflow.com/users/8017666/shubham-jain"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072559,
+      "creation_date": 1593072255,
+      "last_edit_date": 1593072559,
+      "question_id": 62570676,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570676/prunserv-startpath-parameter-overriding-path-on-windows",
+      "title": "PrunServ --StartPath parameter overriding PATH on windows"
+    },
+    {
+      "tags": [
+        "swift",
+        "uicollectionview",
+        "uikit",
+        "uicollectionviewlayout"
+      ],
+      "owner": {
+        "reputation": 101,
+        "user_id": 6914561,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/Ood0l.jpg?s=128&g=1",
+        "display_name": "Romain Sickenberg",
+        "link": "https://stackoverflow.com/users/6914561/romain-sickenberg"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072550,
+      "creation_date": 1593071150,
+      "last_edit_date": 1593072550,
+      "question_id": 62570332,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570332/how-to-dynamically-grid-a-uicollectionview-layout",
+      "title": "How to dynamically grid a UICollectionView Layout?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "datetime",
+        "java-8",
+        "zoneddatetime"
+      ],
+      "owner": {
+        "reputation": 131,
+        "user_id": 3501336,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://www.gravatar.com/avatar/7519447ab80820e7a8998ed6630b8cdd?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Deca",
+        "link": "https://stackoverflow.com/users/3501336/deca"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072545,
+      "creation_date": 1593071833,
+      "question_id": 62570552,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570552/datetimeformatter-doesnt-work-as-expected",
+      "title": "DateTimeFormatter doesn&#39;t work as expected"
+    },
+    {
+      "tags": [
+        "c#",
+        "apache-kafka",
+        "avro",
+        "confluent-platform"
+      ],
+      "owner": {
+        "reputation": 5,
+        "user_id": 6133862,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/966849713364679/picture?type=large",
+        "display_name": "Dawid Nowak",
+        "link": "https://stackoverflow.com/users/6133862/dawid-nowak"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072544,
+      "creation_date": 1593072544,
+      "question_id": 62570757,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570757/c-confluent-kafka-problem-with-avro-serialization",
+      "title": "C# confluent kafka problem with avro serialization"
+    },
+    {
+      "tags": [
+        "mongodb",
+        "spring-boot",
+        "ssl"
+      ],
+      "owner": {
+        "reputation": 1000,
+        "user_id": 5327707,
+        "user_type": "registered",
+        "accept_rate": 21,
+        "profile_image": "https://www.gravatar.com/avatar/f4db7ff546d2c0b1ce11937295d12451?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ninja Dude",
+        "link": "https://stackoverflow.com/users/5327707/ninja-dude"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072529,
+      "creation_date": 1593068879,
+      "last_edit_date": 1593072529,
+      "question_id": 62569729,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569729/spring-boot-mongo-tls-cert",
+      "title": "Spring boot mongo tls cert"
+    },
+    {
+      "tags": [
+        "c#",
+        "instance",
+        "executable",
+        "multiple",
+        "single-instance"
+      ],
+      "owner": {
+        "reputation": 736,
+        "user_id": 12805184,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2c35edea37c782cb4f6f2afe211370c1?s=128&d=identicon&r=PG&f=1",
+        "display_name": "sodjsn26fr",
+        "link": "https://stackoverflow.com/users/12805184/sodjsn26fr"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1593072527,
+      "creation_date": 1593072527,
+      "question_id": 62570756,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570756/how-to-allow-single-instance-application-from-the-same-directory-but-several-ins",
+      "title": "How to allow single instance application from the same directory but several instances from different directories in C#?"
+    },
+    {
+      "tags": [
+        "python-3.x",
+        "keras",
+        "neural-network",
+        "onnx"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 10791132,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/dafd4fc59428da52132655015ca33571?s=128&d=identicon&r=PG&f=1",
+        "display_name": "USER9123",
+        "link": "https://stackoverflow.com/users/10791132/user9123"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072527,
+      "creation_date": 1593072527,
+      "question_id": 62570755,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570755/onnx-node-and-initializer-order",
+      "title": "ONNX node and initializer order"
+    },
+    {
+      "tags": [
+        "windows",
+        "powershell",
+        "rdp"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 10282602,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2056613397987342/picture?type=large",
+        "display_name": "Richaa Dhar",
+        "link": "https://stackoverflow.com/users/10282602/richaa-dhar"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072515,
+      "creation_date": 1593071119,
+      "last_edit_date": 1593072515,
+      "question_id": 62570319,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570319/enter-pssession-powershell-to-rdp-and-run-ipconfig-giving-error",
+      "title": "Enter-PSSession powershell to RDP and run IPConfig. Giving error"
+    },
+    {
+      "tags": [
+        "json",
+        "amazon-web-services",
+        "amazon-s3"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 4290932,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-ljSiMnffLV0/AAAAAAAAAAI/AAAAAAAABnU/loAPVH8XjmA/photo.jpg?sz=128",
+        "display_name": "Perumal Bs",
+        "link": "https://stackoverflow.com/users/4290932/perumal-bs"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072507,
+      "creation_date": 1593072507,
+      "question_id": 62570754,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570754/how-to-create-life-cycle-in-s3-aws",
+      "title": "How to create life cycle in S3 aws"
+    },
+    {
+      "tags": [
+        "powershell"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13810979,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-C3c7H6lvoCw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAtD2aOiVH0jszezs776MMrvClfg/photo.jpg?sz=128",
+        "display_name": "Jenkinsbuild mails",
+        "link": "https://stackoverflow.com/users/13810979/jenkinsbuild-mails"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072502,
+      "creation_date": 1593072502,
+      "question_id": 62570753,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570753/exception-from-hresult-0x800a03ec-in-powershell",
+      "title": "Exception from HRESULT: 0x800A03EC in powershell"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 10152318,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-qyWVwoTH1aM/AAAAAAAAAAI/AAAAAAAABAM/VJyUI1BJrd8/photo.jpg?sz=128",
+        "display_name": "Abhinandan Mehandiratta",
+        "link": "https://stackoverflow.com/users/10152318/abhinandan-mehandiratta"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072498,
+      "creation_date": 1593072498,
+      "question_id": 62570751,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570751/not-getting-all-the-attributes-from-element-tags-in-xml-using-python",
+      "title": "Not getting all the attributes from element tags in XML using python"
+    },
+    {
+      "tags": [
+        "c#",
+        "mysql",
+        "load-data-infile"
+      ],
+      "owner": {
+        "reputation": 13,
+        "user_id": 13693906,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-9tjsXzUfimM/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hWm9Tj8YI-lwn4GHvxTdbLF9V8Kg/mo/photo.jpg?sz=128",
+        "display_name": "Laura Destier",
+        "link": "https://stackoverflow.com/users/13693906/laura-destier"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072493,
+      "creation_date": 1593072493,
+      "question_id": 62570750,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570750/fatal-error-encountered-during-command-execution-mysql",
+      "title": "Fatal error encountered during command execution Mysql"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "xcode",
+        "wkwebview"
+      ],
+      "owner": {
+        "reputation": 1613,
+        "user_id": 9548591,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fc2cd8363f74f75dbad0f6b7a2bc6c27?s=128&d=identicon&r=PG&f=1",
+        "display_name": "David",
+        "link": "https://stackoverflow.com/users/9548591/david"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072488,
+      "creation_date": 1593072488,
+      "question_id": 62570748,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570748/wkwebview-didcommit-not-calling-when-uploading-file",
+      "title": "WKWebView didCommit not calling when uploading file"
+    },
+    {
+      "tags": [
+        "github",
+        "repo",
+        "git-commands"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 12848397,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fea443e8f991831f7c51cd0a54309171?s=128&d=identicon&r=PG&f=1",
+        "display_name": "1062",
+        "link": "https://stackoverflow.com/users/12848397/1062"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072479,
+      "creation_date": 1593070543,
+      "last_edit_date": 1593072479,
+      "question_id": 62570165,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570165/git-checkout-f-head",
+      "title": "git checkout -f HEAD"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle",
+        "plsql",
+        "plsqldeveloper"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13811059,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-caB0GxwuN1A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckloDKibP8ES1ALx3FHORUPpZlY4w/photo.jpg?sz=128",
+        "display_name": "Ripudemy",
+        "link": "https://stackoverflow.com/users/13811059/ripudemy"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072478,
+      "creation_date": 1593072478,
+      "question_id": 62570745,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570745/optimizing-pl-sql-code-for-better-performance",
+      "title": "Optimizing PL/SQL code for better performance"
+    },
+    {
+      "tags": [
+        "visual-studio-code",
+        "vscode-settings",
+        "vscode-extensions"
+      ],
+      "owner": {
+        "reputation": 863,
+        "user_id": 9152848,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6546e410ae288852b47ffa26033b6d0b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Petro Koval",
+        "link": "https://stackoverflow.com/users/9152848/petro-koval"
+      },
+      "is_answered": true,
+      "view_count": 8,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072477,
+      "creation_date": 1593069638,
+      "question_id": 62569941,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569941/show-only-parent-folder-names",
+      "title": "Show only parent folder names?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "css-grid"
+      ],
+      "owner": {
+        "reputation": 177,
+        "user_id": 13573444,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/ZxIH0.jpg?s=128&g=1",
+        "display_name": "sergey kuznetsov",
+        "link": "https://stackoverflow.com/users/13573444/sergey-kuznetsov"
+      },
+      "is_answered": true,
+      "view_count": 28,
+      "accepted_answer_id": 62569158,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1593072470,
+      "creation_date": 1593064584,
+      "last_edit_date": 1593071082,
+      "question_id": 62568744,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62568744/mobile-adaptive-tables-on-grid",
+      "title": "mobile adaptive tables on grid"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 101,
+        "user_id": 2154695,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/ReN6v.jpg?s=128&g=1",
+        "display_name": "DilbertFan",
+        "link": "https://stackoverflow.com/users/2154695/dilbertfan"
+      },
+      "is_answered": true,
+      "view_count": 33,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1593072465,
+      "creation_date": 1593070718,
+      "last_edit_date": 1593072465,
+      "question_id": 62570218,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570218/reverse-a-three-digit-int-if-there-is-a-leading-zero-in-the-output-it-shoud-be",
+      "title": "Reverse a three digit int; if there is a leading zero in the output it shoud be left out"
+    },
+    {
+      "tags": [
+        "qt",
+        "ubuntu",
+        "makefile",
+        "qmake"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12966309,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-7EBmQAQdDYc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdzNfe8fc6VfCb5_f_GNPQCrdQS8g/photo.jpg?sz=128",
+        "display_name": "dechen cheng",
+        "link": "https://stackoverflow.com/users/12966309/dechen-cheng"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072463,
+      "creation_date": 1593072463,
+      "question_id": 62570739,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570739/makefile-generated-by-qmake-doesnt-contain-neccessary-header-path-leading-to-c",
+      "title": "makefile generated by qmake doesn&#39;t contain neccessary header path, leading to compilation failure"
+    },
+    {
+      "tags": [
+        "c",
+        "recursion"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9935702,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ad561df0d7f7da32cfa675bec359505a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Purohit Iyer",
+        "link": "https://stackoverflow.com/users/9935702/purohit-iyer"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072463,
+      "creation_date": 1593070728,
+      "last_edit_date": 1593072463,
+      "question_id": 62570219,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570219/inifinite-recursion-when-executing-function-in-c",
+      "title": "Inifinite recursion when executing function in C"
+    },
+    {
+      "tags": [
+        "android",
+        "kotlin",
+        "android-livedata",
+        "android-mvvm"
+      ],
+      "owner": {
+        "reputation": 131,
+        "user_id": 3740826,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6b28de1fe3b501ac011881b3765e2320?s=128&d=identicon&r=PG&f=1",
+        "display_name": "DuosDuo",
+        "link": "https://stackoverflow.com/users/3740826/duosduo"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072462,
+      "creation_date": 1593072462,
+      "question_id": 62570738,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570738/routing-in-mvvm-android-best-practice",
+      "title": "Routing in MVVM android (Best practice)"
+    },
+    {
+      "tags": [
+        "mysql"
+      ],
+      "owner": {
+        "reputation": 747,
+        "user_id": 1693522,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/86baf728ad98ceea99e5f44031d52fe6?s=128&d=identicon&r=PG",
+        "display_name": "Sameer K",
+        "link": "https://stackoverflow.com/users/1693522/sameer-k"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072461,
+      "creation_date": 1593072461,
+      "question_id": 62570737,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570737/mysql-running-a-loop-without-procedure-function-in-sql-file",
+      "title": "MySQL : Running a loop without procedure/function in SQL file"
+    },
+    {
+      "tags": [
+        "javascript",
+        "three.js",
+        "vue-cli"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 10833496,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/61c68449e154816e464520e886f3604f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Power_tile",
+        "link": "https://stackoverflow.com/users/10833496/power-tile"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072459,
+      "creation_date": 1593072459,
+      "question_id": 62570736,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570736/threejs-squares-are-displayed-as-rectangles",
+      "title": "Threejs squares are displayed as rectangles"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 19,
+        "user_id": 12250052,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10157727643554059/picture?type=large",
+        "display_name": "Youngin Kim",
+        "link": "https://stackoverflow.com/users/12250052/youngin-kim"
+      },
+      "is_answered": false,
+      "view_count": 32,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1593072457,
+      "creation_date": 1593071390,
+      "question_id": 62570413,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570413/what-does-this-code-block-do-in-this-program",
+      "title": "what does this code block do in this program?"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "histogram"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12608558,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/75669c6b2e3ad645b2a8852ede9713e0?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mjdavis",
+        "link": "https://stackoverflow.com/users/12608558/mjdavis"
+      },
+      "is_answered": true,
+      "view_count": 21,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072450,
+      "creation_date": 1593045918,
+      "last_edit_date": 1593046557,
+      "question_id": 62566171,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62566171/empty-bar-chart-matplotlib",
+      "title": "Empty bar chart matplotlib"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 119,
+        "user_id": 12534379,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/ypyo1.jpg?s=128&g=1",
+        "display_name": "ph-quiett",
+        "link": "https://stackoverflow.com/users/12534379/ph-quiett"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072445,
+      "creation_date": 1593072445,
+      "question_id": 62570732,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570732/outputhtml-from-search-pushing-content-down-instead-of-on-top",
+      "title": "OutputHTML from search pushing content down instead of on-top"
+    },
+    {
+      "tags": [
+        "python",
+        "machine-learning",
+        "flask",
+        "web-applications"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12974980,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mCLG0foOUWeQpIuXTRHJHBCoVzx7BHue-CICrlZAw=k-s128",
+        "display_name": "Immanuel Joseph",
+        "link": "https://stackoverflow.com/users/12974980/immanuel-joseph"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072442,
+      "creation_date": 1593072442,
+      "question_id": 62570730,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570730/can-you-tell-me-how-to-reset-the-value-on-variable-final-features-i-am-not-su",
+      "title": "Can you tell me how to reset the value on variable &#39;final_features&#39;? I am not sure where I am going wrong once it reaches 103"
+    },
+    {
+      "tags": [
+        "rpa",
+        "g1ant"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13780067,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgSrpaoLrx_hl7de5ZPlkBMgzLaH8bpxOuwjK871g=k-s128",
+        "display_name": "vikas mourya",
+        "link": "https://stackoverflow.com/users/13780067/vikas-mourya"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072441,
+      "creation_date": 1593072441,
+      "question_id": 62570729,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570729/i-am-receiving-an-error-object-refrence-not-set-to-an-instance-object",
+      "title": "I am receiving an error &#39;object refrence not set to an instance object,"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "matplotlib",
+        "tkinter",
+        "graph"
+      ],
+      "owner": {
+        "reputation": 29,
+        "user_id": 11229350,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a26f42d5f6ec5fc2e59956a2cbd59f6d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "messymon",
+        "link": "https://stackoverflow.com/users/11229350/messymon"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072440,
+      "creation_date": 1593069025,
+      "question_id": 62569758,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569758/python-how-to-display-dynamically-changing-graph-matplotlib",
+      "title": "Python: how to display dynamically changing graph matplotlib"
+    },
+    {
+      "tags": [
+        "angular",
+        "docker-compose",
+        "azure-appservice"
+      ],
+      "owner": {
+        "reputation": 2325,
+        "user_id": 1228333,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/d5b088667e5e3aab771eebcc20bbd7ae?s=128&d=identicon&r=PG",
+        "display_name": "Donovant",
+        "link": "https://stackoverflow.com/users/1228333/donovant"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072438,
+      "creation_date": 1593067400,
+      "last_edit_date": 1593072438,
+      "question_id": 62569340,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569340/angular-web-app-cant-reach-the-api-on-the-same-hot",
+      "title": "Angular web-app can&#39;t reach the API on the same hot"
+    },
+    {
+      "tags": [
+        "node.js",
+        "global-variables",
+        "stack-overflow",
+        "tail-recursion"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 6214150,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/50c3b39c84e3f01f90321599eaf4473b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "kaikaiiiiiii",
+        "link": "https://stackoverflow.com/users/6214150/kaikaiiiiiii"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072425,
+      "creation_date": 1593072029,
+      "last_edit_date": 1593072425,
+      "question_id": 62570609,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570609/how-to-use-tail-recursion-with-global-varialble-correctly-in-js",
+      "title": "How to use tail recursion with global varialble correctly in JS"
+    },
+    {
+      "tags": [
+        "java",
+        "kotlin",
+        "download",
+        "zip",
+        "inputstream"
+      ],
+      "owner": {
+        "reputation": 1179,
+        "user_id": 4637456,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/12d7f375235504f8fe3ab6795c154c4e?s=128&d=identicon&r=PG",
+        "display_name": "Thami Bouchnafa",
+        "link": "https://stackoverflow.com/users/4637456/thami-bouchnafa"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072420,
+      "creation_date": 1593072420,
+      "question_id": 62570723,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570723/invalidate-java-util-zip-zipoutputstream",
+      "title": "Invalidate java.util.zip.ZipOutputStream"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "unit-testing",
+        "promise",
+        "enzyme",
+        "jest"
+      ],
+      "owner": {
+        "reputation": 131,
+        "user_id": 5686084,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://i.stack.imgur.com/tmeXz.jpg?s=128&g=1",
+        "display_name": "IamRuku",
+        "link": "https://stackoverflow.com/users/5686084/iamruku"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1593072418,
+      "creation_date": 1593072418,
+      "question_id": 62570722,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570722/unit-testing-image-onload-and-image-onerror-inside-react-useeffect-with-jest-a",
+      "title": "Unit Testing image.onload and image.onerror Inside React.useEffect() With Jest and Enzyme"
+    },
+    {
+      "tags": [
+        "r",
+        "list",
+        "vector"
+      ],
+      "owner": {
+        "reputation": 77,
+        "user_id": 10440652,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-lvlFuPp72Mg/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DU6gk_bQpW2U3AKPiYLq1FrFWt_Rg/mo/photo.jpg?sz=128",
+        "display_name": "Mary Nastase",
+        "link": "https://stackoverflow.com/users/10440652/mary-nastase"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072417,
+      "creation_date": 1593071832,
+      "question_id": 62570550,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570550/extract-the-first-element-for-every-vector-in-a-list-in-r",
+      "title": "Extract the first element for every vector in a list in R"
+    },
+    {
+      "tags": [
+        "python",
+        "windows",
+        "admin"
+      ],
+      "owner": {
+        "reputation": 62,
+        "user_id": 13446550,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiCnSS7SlmONeU1BlQtaDZT1vtBn62Hr3Lg4xOG7g=k-s128",
+        "display_name": "Jonas X",
+        "link": "https://stackoverflow.com/users/13446550/jonas-x"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072414,
+      "creation_date": 1593070904,
+      "last_edit_date": 1593072414,
+      "question_id": 62570264,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570264/many-python-windows-pop-up-when-i-run-code-in-windows",
+      "title": "Many Python windows Pop up when I run code in Windows"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "xml",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13678051,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-FjrIPRQlUo8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGUiPg0kRmn9GSZBR8_08qW4sIsQ/photo.jpg?sz=128",
+        "display_name": "Arvinder Bajaj",
+        "link": "https://stackoverflow.com/users/13678051/arvinder-bajaj"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1593072404,
+      "creation_date": 1593072404,
+      "question_id": 62570718,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570718/tasksnaphot-getdownloadurl-is-not-working-what-to-do-for-this",
+      "title": "taskSnaphot.getDownloadUrl() is not working. What to do for this?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-redux",
+        "react-router",
+        "dynamic-import"
+      ],
+      "owner": {
+        "reputation": 963,
+        "user_id": 2878777,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.stack.imgur.com/ReeBu.jpg?s=128&g=1",
+        "display_name": "Srigar",
+        "link": "https://stackoverflow.com/users/2878777/srigar"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072402,
+      "creation_date": 1593071772,
+      "question_id": 62570535,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570535/dynamic-importing-component-in-react-router",
+      "title": "Dynamic importing component in react router"
+    },
+    {
+      "tags": [
+        "react-native",
+        "atom-editor"
+      ],
+      "owner": {
+        "reputation": 53,
+        "user_id": 11666430,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2562058317151793/picture?type=large",
+        "display_name": "Daniel Shen",
+        "link": "https://stackoverflow.com/users/11666430/daniel-shen"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072386,
+      "creation_date": 1593070429,
+      "question_id": 62570136,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570136/atom-and-react-native-aligning-view-etc-tags",
+      "title": "Atom and React Native Aligning &lt;View&gt; etc tags"
+    },
+    {
+      "tags": [
+        "gulp",
+        "gulp-sass"
+      ],
+      "owner": {
+        "reputation": 52,
+        "user_id": 2859272,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/229cc956b5da06c13eef13706caebf39?s=128&d=identicon&r=PG&f=1",
+        "display_name": "JakeMc",
+        "link": "https://stackoverflow.com/users/2859272/jakemc"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072379,
+      "creation_date": 1593072379,
+      "question_id": 62570713,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570713/how-do-you-add-a-header-comment-to-files-compiled-by-gulp",
+      "title": "How do you add a header comment to files compiled by gulp"
+    },
+    {
+      "tags": [
+        "python",
+        "selenium",
+        "web-scraping",
+        "screenshot",
+        "webpage-screenshot"
+      ],
+      "owner": {
+        "reputation": 35,
+        "user_id": 12743506,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ed3c8b95336408cbc565e1e2fa5a242b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "john2994",
+        "link": "https://stackoverflow.com/users/12743506/john2994"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1593072368,
+      "creation_date": 1593072368,
+      "question_id": 62570710,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570710/pyhon-screen-shot-webpage-without-selenium",
+      "title": "Pyhon screen shot webpage without Selenium"
+    },
+    {
+      "tags": [
+        "angular",
+        "npm"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13809683,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gj-hKF2Tl-Ci5bnxR33Z1lyy9hCt1Gh7ofsMtd-RA=k-s128",
+        "display_name": "Krishna Mohanan",
+        "link": "https://stackoverflow.com/users/13809683/krishna-mohanan"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1593072362,
+      "creation_date": 1593061402,
+      "question_id": 62568198,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62568198/while-creating-an-new-project-in-angular-schematic-work-flow-failed",
+      "title": "While creating an new project in angular schematic work flow failed"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 33,
+        "user_id": 5273411,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/c3827f8bd1c2e9a6d1e12802dda4ebac?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nix",
+        "link": "https://stackoverflow.com/users/5273411/nix"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1593072347,
+      "creation_date": 1593070735,
+      "last_edit_date": 1593072347,
+      "question_id": 62570224,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62570224/how-to-get-the-longest-key-in-an-array",
+      "title": "How to get the longest key in an array"
+    },
+    {
+      "tags": [
+        "android",
+        "google-play",
+        "android-manifest",
+        "android-install-apk"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 13720034,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiQW8OVdxaQZGDBBxYYaekMSUwaZ8yVbhKpu-V48Q=k-s128",
+        "display_name": "jai singh Rawat",
+        "link": "https://stackoverflow.com/users/13720034/jai-singh-rawat"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1593072343,
+      "creation_date": 1593069077,
+      "question_id": 62569778,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62569778/can-i-change-the-playstore-url-of-my-app-in-playstore",
+      "title": "Can I change the playstore URL of my app in playstore?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9694
+}

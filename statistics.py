@@ -4,7 +4,7 @@ from flask_restplus import Api, Resource, fields, reqparse
 from query_languages import search_engine, RateLimitException, ServerException
 import time
 
-flask_app = Flask(__name__)
+flask_app = Flask(__name__, instance_relative_config=True)
 app = Api(app = flask_app, 
             version = "1.0",
             title = "Programming language statistics",
@@ -43,7 +43,7 @@ class TopNList(Resource):
         return json.dumps({k : sorted_list[k]['counts'] for k in list(sorted_list)[:n]})
         
 @name_space.route("/appear_all")
-class ApearAllList(Resource):
+class AppearAllList(Resource):
     @app.doc(responses={ 200: 'OK', 400: 'Bad Request', 429: 'Too many requests and rate limit reached. Please try later', 502: 'Bad gateway. The upstream server does not responde.' })
     def get(self):
         """
@@ -61,5 +61,5 @@ class ApearAllList(Resource):
         return json.dumps([tag for tag, prop in cached['items'].items() if len(prop['contained']) == len(search_engine.sites)])
 
 
-
-flask_app.run()
+if __name__ == "__main__":
+    flask_app.run()
