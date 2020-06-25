@@ -36,7 +36,7 @@ class stackoverflow_engine:
  
         nextpage = 2
         yield response.json()
-        while nextpage <= 10 and response['has_more']:
+        while nextpage <= 10 and response.json()['has_more']:
             response = self.session.get(api_url, params={'page': nextpage})
             nextpage += 1
             yield response.json()
@@ -180,4 +180,5 @@ class search_engine:
         return merged
 
 if __name__ == '__main__':
-    search_engine().search()
+    stackoverflow_engine().search()
+    #search_engine().search()
