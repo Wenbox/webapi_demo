@@ -1,7 +1,7 @@
 import unittest
 from unittest import mock
 from statistics import flask_app, TopNList, AppearAllList
-from test_query_languages import mocked_requests_get
+from query_languages_test import mocked_requests_get
 
 class StatisticsServerTests(unittest.TestCase):
     def setUp(self):
