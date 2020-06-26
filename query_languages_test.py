@@ -11,7 +11,7 @@ def mocked_requests_get(*args, **kwargs):
 
         def json(self):
             return self.json_data
-    
+
     if args[0].startswith(stackoverflow_engine.stackoverflow_base):
         f = open('test_data/response_stackoverflow_p1.json')
         content = json.load(f)

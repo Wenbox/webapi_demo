@@ -12,7 +12,7 @@ class ServerException(Exception):
 class stackoverflow_engine:
     """
     The search engine to crawl stackoverflow and collects information about the tags and corresponding frequencies: ::
-    
+
         Usage: >>> stackoverflow_engine().search()
 
     Be aware that too frequent invocation can lead to IP blockage because of the rate limit of stackoverflow.
@@ -33,19 +33,19 @@ class stackoverflow_engine:
             raise RateLimitException('Stackoverflow reached rate limit')
         if response.status_code != 200:
             raise ServerException('Error when request stackoverflow server')
- 
+
         nextpage = 2
         yield response.json()
         while nextpage <= 10 and response.json()['has_more']:
             response = self.session.get(api_url, params={'page': nextpage})
             nextpage += 1
             yield response.json()
-    
+
     def search(self):
         """
         Search the most recent 1000 (10 pages * 100 max items per page) questions posted since the begin of today, then count the frequencies of each tag appeared in questions.
         Be aware that too frequent invocation can lead to IP blockage because of the rate limit of stackoverflow.
-    
+
         :returns dict: the dict of (tag -> counts)
         """
         count = 1
@@ -76,10 +76,10 @@ class stackoverflow_engine:
 
 
 
-class github_engine:    
+class github_engine:
     """
     The search engine to crawl github and collects information about the programming languages and corresponding frequencies in newly created repositories: ::
-    
+
         Usage: >>> github_engine().search()
 
     Be aware that too frequent invocation can lead to IP blockage because of the rate limit of github.
@@ -95,7 +95,7 @@ class github_engine:
         api_url = '{0}/search/repositories?q=created:>={1}&per_page=100'.format(self.github_base, self.today.strftime("%Y-%m-%d"))
         print(api_url)
         response = self.session.get(api_url)
-        
+
         #Github's error status for rate limit
         if response.status_code == 403:
             raise RateLimitException('Github reached rate limit')
@@ -114,7 +114,7 @@ class github_engine:
         """
         Search the most recent 1000 (10 pages * 100 max items per page) newly created repositories since the begin of today, then count the frequencies of each programming language marked in each repository.
         Be aware that too frequent invocation can lead to IP blockage because of the rate limit of github.
-    
+
         :returns dict: the dict of (language -> counts)
         """
 
