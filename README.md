@@ -19,3 +19,6 @@ The code is tested with:
 ## Run
 Simply type `python statistics.py` to set up the server on your local host.
 Then visit http://127.0.0.1:5000 on your browser, you can see the Swagger interface.
+
+## Test
+Run `python test_query_languages.py` or `python test_statistics.py` for dummy unit test (meaningful test cases are missing currently).
