@@ -39,7 +39,7 @@ Then visit http://127.0.0.1:5000 on your browser, you can see the Swagger interf
 
 ## Test
 
-Run `python test_query_languages.py` or `python test_statistics.py` for dummy unit test
-(meaningful test cases are missing currently).
-I mocked the http GET to fetch contents from remote servers to save time and avoid triggering rate limit of remote servers.
-Instead, the GET fetches from the local json data stored in test_data folder.
+Run `python -m unittest` for dummy unit test.
+More meaningful test cases will follow.
+The http GET to fetch contents is mocked in order to become independent from remote servers.
+Thus, the GET fetches local json data stored in the folder `test_data`.
