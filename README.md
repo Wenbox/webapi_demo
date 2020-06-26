@@ -15,17 +15,22 @@ The work process can be illustrated as follows:
 
 ## Prerequisite
 
-(If possible, it is recommended to run it in a virtual environment.)
+If possible, it is recommended to run it in a virtual environment.
+
+* Create virtual environment (Python 3): `python3 -m venv localvenv`
+* Activate virtual environment: `. localvenv/bin/activate`
+
+Dependencies are documented in `requirements.txt`
+
+* Install dependencies using pip: `pip install -r requirements.txt`
+
+**Issue with Werkzeug v1.0.0**: The new version of Werkzeug breaks the dependency of Flask-RESTPlus.
+See: [flask-restplus is broken by Werkzeug 1.0.0 #777](https://github.com/noirbizarre/flask-restplus/issues/777)
+The current workaround is to downgrade Werkzeug to v0.16.1.
 
 The code is tested with:
 
 * python version = 3.6
-* Flask version = 1.1.2 ([install](https://flask.palletsprojects.com/en/1.0.x/installation/#installation))
-* Flask-RESTPlus version = 0.13.0 ([install](https://flask-restplus.readthedocs.io/en/stable/))
-
-**Issue with Werkzeug v1.0.0**: The new version of Werkzeug breaks the dependency of Flask-RESTPlus.
-See: [flask-restplus is broken by Werkzeug 1.0.0 #777](https://github.com/noirbizarre/flask-restplus/issues/777)
-The current workaround is to downgrade Werkzeug to v0.16.1 with `pip install -Iv Werkzeug==0.16.1`.
 
 ## Run
 
